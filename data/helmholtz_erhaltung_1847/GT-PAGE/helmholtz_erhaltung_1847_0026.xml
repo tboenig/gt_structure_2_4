@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:14:30</Created>
+	<LastChange>2019-02-26T16:57:55</LastChange></Metadata>
+	<Page imageFilename="helmholtz_erhaltung_1847_0026.jpg" imageWidth="1782" imageHeight="2439" type="content">
+	<PrintSpace>
+	<Coords points="1706,2293 1706,121 272,121 272,2293"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/></OrderedGroup></ReadingOrder>
+	<MathsRegion id="region_1">
+	<Coords points="629,379 1358,379 1358,757 629,757"/></MathsRegion>
+	<MathsRegion id="region_2">
+	<Coords points="793,1243 1181,1243 1181,1348 793,1348"/></MathsRegion>
+	<MathsRegion id="region_3">
+	<Coords points="776,1456 1198,1456 1198,1564 776,1564"/></MathsRegion>
+	<MathsRegion id="region_4">
+	<Coords points="693,1639 1291,1639 1291,1741 693,1741"/></MathsRegion>
+	<MathsRegion id="region_5">
+	<Coords points="526,1896 1495,1896 1495,1994 526,1994"/></MathsRegion>
+	<MathsRegion id="region_6">
+	<Coords points="706,2066 1325,2066 1325,2141 706,2141"/></MathsRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="487,200 487,130 409,130 409,200"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1572,336 1572,224 384,224 384,336"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1578,1221 1578,784 400,784 400,1221"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1227,1442 1227,1366 415,1366 415,1442"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="796,1624 796,1575 409,1575 409,1624"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1621,1887 1621,1763 412,1763 412,1887"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="733,2048 733,2021 418,2021 418,2048"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="533,2196 533,2136 418,2136 418,2196"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

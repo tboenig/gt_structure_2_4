@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:14:33</Created>
+	<LastChange>2019-02-26T17:03:24</LastChange></Metadata>
+	<Page imageFilename="herbart_psychologie01_1824_0192.jpg" imageWidth="1931" imageHeight="2742" type="content">
+	<PrintSpace>
+	<Coords points="606,176 606,2600 1923,2600 1923,176"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/></OrderedGroup></ReadingOrder>
+	<MathsRegion id="region_1">
+	<Coords points="826,1286 1255,1286 1255,1509 826,1509"/></MathsRegion>
+	<MathsRegion id="region_2">
+	<Coords points="1443,1296 1892,1296 1892,1510 1443,1510"/></MathsRegion>
+	<MathsRegion id="region_3">
+	<Coords points="853,1566 1272,1566 1272,1786 853,1786"/></MathsRegion>
+	<MathsRegion id="region_4">
+	<Coords points="1436,1573 1911,1573 1911,1790 1436,1790"/></MathsRegion>
+	<TableRegion id="region_5">
+	<Coords points="743,1790 1273,1790 1273,2378 743,2378"/></TableRegion>
+	<TableRegion id="region_6">
+	<Coords points="1316,1790 1902,1790 1902,2376 1316,2376"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="896,340 896,273 766,273 766,340"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1906,373 1906,922 1713,922 1713,921 1325,921 1325,920 937,920 937,919 743,919 743,373"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="936,921 936,922 1324,922 1324,923 1712,923 1712,924 1906,924 1906,1283 743,1283 743,921"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1896,1573 1896,1483 753,1483 753,1573"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

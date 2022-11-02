@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:14:57</Created>
+	<LastChange>2019-02-26T17:09:08</LastChange></Metadata>
+	<Page imageFilename="hering_lichtsinn_1878_0007.jpg" imageWidth="2199" imageHeight="3155" type="content">
+	<PrintSpace>
+	<Coords points="0,284 0,2826 1557,2826 1557,284"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="other">
+	<Coords points="43,536 1402,536 1402,2678 43,2678"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1203,2642 1203,2400 234,2400 234,2642"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1023,2069 1023,1980 423,1980 423,2069"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1096,1788 1096,1538 342,1538 342,1788"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1326,1480 1326,1150 107,1150 107,1480"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1334,900 1334,596 111,596 111,900"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_2">
+	<Coords points="570,976 862,976 862,1020 570,1020"/></SeparatorRegion></Page></PcGts>

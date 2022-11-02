@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:14:30</Created>
+	<LastChange>2019-02-26T17:01:48</LastChange></Metadata>
+	<Page imageFilename="helmholtz_erhaltung_1847_0047.jpg" imageWidth="1782" imageHeight="2439" type="content">
+	<PrintSpace>
+	<Coords points="69,157 69,2333 1487,2333 1487,157"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<MathsRegion id="region_1">
+	<Coords points="546,289 936,289 936,414 546,414"/></MathsRegion>
+	<TableRegion id="region_2">
+	<Coords points="316,656 1254,656 1254,1194 316,1194"/></TableRegion>
+	<TextRegion id="region_3" custom="#heading_level1" type="heading">
+	<Coords points="186,1709 1388,1709 1388,1917 186,1917"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1354,212 1354,136 1263,136 1263,212"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="196,236 196,293 606,293 606,236"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1369,642 1369,433 181,433 181,642"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1387,1648 1387,1190 190,1190 190,1648"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1409,2206 1409,1948 209,1948 209,2206"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
