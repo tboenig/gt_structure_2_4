@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:13:08</Created>
+	<LastChange>2019-02-26T16:47:01</LastChange></Metadata>
+	<Page imageFilename="goethe_lehrjahre03_1795_0157.jpg" imageWidth="1247" imageHeight="1922" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="720,192 801,192 801,271 720,271"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="891,290 891,594 677,594 677,595 249,595 249,596 35,596 35,290"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="891,596 891,952 868,952 868,953 823,953 823,954 778,954 778,955 733,955 733,956 688,956 688,957 643,957 643,958 598,958 598,959 553,959 553,960 508,960 508,961 463,961 463,962 417,962 417,963 372,963 372,964 327,964 327,965 282,965 282,966 237,966 237,967 192,967 192,968 147,968 147,969 102,969 102,970 57,970 57,971 35,971 35,598 250,598 250,597 678,597 678,596"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="891,954 891,1566 35,1566 35,973 58,973 58,972 103,972 103,971 148,971 148,970 193,970 193,969 238,969 238,968 283,968 283,967 328,967 328,966 373,966 373,965 418,965 418,964 464,964 464,963 509,963 509,962 554,962 554,961 599,961 599,960 644,960 644,959 689,959 689,958 734,958 734,957 779,957 779,956 824,956 824,955 869,955 869,954"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

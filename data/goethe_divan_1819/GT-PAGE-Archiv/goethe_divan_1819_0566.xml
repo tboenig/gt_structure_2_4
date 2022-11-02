@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:51</Created>
+	<LastChange>2019-02-26T16:33:29</LastChange></Metadata>
+	<Page imageFilename="goethe_divan_1819_0566.jpg" imageWidth="1593" imageHeight="2367" type="content">
+	<PrintSpace>
+	<Coords points="455,129 455,2220 1592,2220 1592,129"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<NoiseRegion id="region_1" custom="#back_paragraph">
+	<Coords points="1387,228 1581,228 1581,370 1387,370"/></NoiseRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1092,261 1224,261 1224,357 1092,357"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem" type="paragraph">
+	<Coords points="708,693 1581,693 1581,1062 708,1062"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem" type="paragraph">
+	<Coords points="720,1224 1578,1224 1578,1566 720,1566"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

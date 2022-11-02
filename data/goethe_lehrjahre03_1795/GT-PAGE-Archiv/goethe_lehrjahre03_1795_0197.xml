@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:13:08</Created>
+	<LastChange>2019-02-26T16:47:53</LastChange></Metadata>
+	<Page imageFilename="goethe_lehrjahre03_1795_0197.jpg" imageWidth="1247" imageHeight="1922" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="700,210 804,210 804,286 700,286"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="861,275 861,850 833,850 833,849 775,849 775,848 718,848 718,847 660,847 660,846 602,846 602,845 545,845 545,844 487,844 487,843 430,843 430,842 372,842 372,841 315,841 315,840 257,840 257,839 199,839 199,838 142,838 142,837 84,837 84,836 55,836 55,275"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="83,838 83,839 141,839 141,840 198,840 198,841 256,841 256,842 314,842 314,843 371,843 371,844 429,844 429,845 486,845 486,846 544,846 544,847 601,847 601,848 659,848 659,849 717,849 717,850 774,850 774,851 832,851 832,852 861,852 861,1646 55,1646 55,838"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

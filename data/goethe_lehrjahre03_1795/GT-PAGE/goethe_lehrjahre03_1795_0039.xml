@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:13:08</Created>
+	<LastChange>2019-02-26T16:33:56</LastChange></Metadata>
+	<Page imageFilename="goethe_lehrjahre03_1795_0039.jpg" imageWidth="1246" imageHeight="1922" type="content">
+	<PrintSpace>
+	<Coords points="2,27 2,1888 1034,1888 1034,27"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="695,187 794,187 794,263 695,263"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="80,1512 614,1512 614,1566 80,1566"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="876,272 876,408 830,408 830,407 736,407 736,406 642,406 642,405 548,405 548,404 455,404 455,403 361,403 361,402 267,402 267,401 173,401 173,400 79,400 79,399 32,399 32,272"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="78,401 78,402 172,402 172,403 266,403 266,404 360,404 360,405 454,405 454,406 547,406 547,407 641,407 641,408 735,408 735,409 829,409 829,410 876,410 876,1506 32,1506 32,401"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

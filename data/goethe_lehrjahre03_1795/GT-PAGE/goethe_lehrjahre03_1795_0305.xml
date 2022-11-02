@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:13:08</Created>
+	<LastChange>2019-02-26T16:49:12</LastChange></Metadata>
+	<Page imageFilename="goethe_lehrjahre03_1795_0305.jpg" imageWidth="1247" imageHeight="1921" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="720,212 821,212 821,281 720,281"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="876,287 876,540 851,540 851,539 800,539 800,538 750,538 750,537 699,537 699,536 648,536 648,535 598,535 598,534 547,534 547,533 496,533 496,532 446,532 446,531 395,531 395,530 344,530 344,529 294,529 294,528 243,528 243,527 192,527 192,526 142,526 142,525 91,525 91,524 65,524 65,287"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="90,526 90,527 141,527 141,528 191,528 191,529 242,529 242,530 293,530 293,531 343,531 343,532 394,532 394,533 445,533 445,534 495,534 495,535 546,535 546,536 597,536 597,537 647,537 647,538 698,538 698,539 749,539 749,540 799,540 799,541 850,541 850,542 876,542 876,1019 818,1019 818,1020 702,1020 702,1021 586,1021 586,1022 470,1022 470,1023 354,1023 354,1024 238,1024 238,1025 122,1025 122,1026 65,1026 65,526"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="876,1021 876,1626 65,1626 65,1028 123,1028 123,1027 239,1027 239,1026 355,1026 355,1025 471,1025 471,1024 587,1024 587,1023 703,1023 703,1022 819,1022 819,1021"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

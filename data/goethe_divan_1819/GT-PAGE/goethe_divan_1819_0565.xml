@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:51</Created>
+	<LastChange>2019-02-26T16:32:56</LastChange></Metadata>
+	<Page imageFilename="goethe_divan_1819_0565.jpg" imageWidth="1593" imageHeight="2367" type="content">
+	<PrintSpace>
+	<Coords points="0,141 0,2191 1202,2191 1202,141"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="6,258 1071,258 1071,1596 6,1596"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="501,285 624,285 624,351 501,351"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem_heading" type="paragraph">
+	<Coords points="276,528 852,528 852,630 276,630"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem" type="paragraph">
+	<Coords points="201,663 867,663 867,1011 201,1011"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#poem_heading" type="paragraph">
+	<Coords points="345,1071 780,1071 780,1179 345,1179"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#poem" type="paragraph">
+	<Coords points="135,1203 1023,1203 1023,1560 135,1560"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

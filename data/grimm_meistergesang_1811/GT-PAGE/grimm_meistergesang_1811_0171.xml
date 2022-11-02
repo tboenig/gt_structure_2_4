@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:13:36</Created>
+	<LastChange>2019-02-26T16:56:29</LastChange></Metadata>
+	<Page imageFilename="grimm_meistergesang_1811_0171.jpg" imageWidth="1889" imageHeight="2706" type="content">
+	<PrintSpace>
+	<Coords points="13,213 13,2590 1363,2590 1363,213"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote">
+	<Coords points="72,777 1161,777 1161,2334 72,2334"/>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1146,2333 1146,2246 133,2246 133,2333"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="909,2337 996,2337 996,2403 909,2403"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="643,420 643,370 550,370 550,420"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1153,466 1153,632 968,632 968,633 598,633 598,634 228,634 228,635 43,635 43,466"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1153,634 1153,743 43,743 43,637 229,637 229,636 599,636 599,635 969,635 969,634"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<NoiseRegion id="r6">
+	<Coords points="1276,893 1276,780 1160,780 1160,893"/></NoiseRegion></Page></PcGts>
