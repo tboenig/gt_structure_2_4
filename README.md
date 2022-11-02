@@ -45,14 +45,14 @@
       </thead>
       <tbody>
          <tr>
-            <td>2866</td>
+            <td>4853</td>
             <td>0</td>
             <td>0</td>
-            <td>20</td>
-            <td>6</td>
+            <td>26</td>
+            <td>14</td>
             <td>0</td>
-            <td>143</td>
-            <td>0</td>
+            <td>282</td>
+            <td>180</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -60,7 +60,7 @@
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>831</td>
+            <td>1388</td>
          </tr>
       </tbody>
    </table>
@@ -90,6 +90,82 @@
                </tr>
             </thead>
             <tbody>
+               <tr>
+                  <td>herbart_psychologie01_1824</td>
+                  <td>60</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td>1</td>
+                  <td>22</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>herder_litteratur01_1767</td>
+                  <td>73</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>herwegh_gedichte02_1843</td>
+                  <td>88</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>hering_lichtsinn_1878</td>
+                  <td>50</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
                <tr>
                   <td>goethe_leben03_1814</td>
                   <td>43</td>
@@ -167,6 +243,44 @@
                   <td>25</td>
                </tr>
                <tr>
+                  <td>herder_geschichte04_1791</td>
+                  <td>78</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>herder_abhandlung_1772</td>
+                  <td>71</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
                   <td>grimmelshausen_continuatio_1669</td>
                   <td>53</td>
                   <td/>
@@ -224,6 +338,25 @@
                   <td>21</td>
                </tr>
                <tr>
+                  <td>herbart_psychologie02_1825</td>
+                  <td>47</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
                   <td>guenther_sammlung03_1727</td>
                   <td>140</td>
                   <td/>
@@ -241,6 +374,25 @@
                   <td/>
                   <td/>
                   <td>23</td>
+               </tr>
+               <tr>
+                  <td>herder_geschichte02_1785</td>
+                  <td>77</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>goethe_lehrjahre03_1795</td>
@@ -281,6 +433,25 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>herder_philosophie_1774</td>
+                  <td>64</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
                   <td>grimm_grammatik01_1822</td>
                   <td>56</td>
                   <td/>
@@ -290,6 +461,25 @@
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>helmholtz_luftschwingungen_1860</td>
+                  <td>69</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td>4</td>
+                  <td>131</td>
                   <td/>
                   <td/>
                   <td/>
@@ -528,6 +718,44 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>herder_kritische01_1769</td>
+                  <td>93</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>herder_geschichte01_1784</td>
+                  <td>57</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
                   <td>gryphius_leoarmenius_1650</td>
                   <td>191</td>
                   <td/>
@@ -585,6 +813,25 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>herder_litteratur02_1767</td>
+                  <td>54</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
                   <td>grimm_woerterbuch01_1854</td>
                   <td>42</td>
                   <td/>
@@ -604,6 +851,25 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>herder_kritische03_1769</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
                   <td>goethe_leben02_1812</td>
                   <td>42</td>
                   <td/>
@@ -613,6 +879,25 @@
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>helmholtz_erhaltung_1847</td>
+                  <td>74</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td>4</td>
+                  <td>27</td>
                   <td/>
                   <td/>
                   <td/>
@@ -680,6 +965,25 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>heinse_ardinghello01_1787</td>
+                  <td>67</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
                   <td>gutzkow_wally_1835</td>
                   <td>40</td>
                   <td/>
@@ -699,8 +1003,103 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>herder_geschichte03_1787</td>
+                  <td>78</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>herder_plastik_1778</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>heine_wintermaehrchen_1844</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
                   <td>gutsmuths_spiele_1796</td>
                   <td>52</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>hellwig_haussverwalter_1712</td>
+                  <td>112</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>herwegh_gedichte01_1841</td>
+                  <td>65</td>
                   <td/>
                   <td/>
                   <td/>
@@ -737,6 +1136,25 @@
                   <td>20</td>
                </tr>
                <tr>
+                  <td>herder_humanitaet08_1796</td>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
                   <td>griesinger_psychische_1845</td>
                   <td>85</td>
                   <td/>
@@ -754,6 +1172,25 @@
                   <td/>
                   <td/>
                   <td>20</td>
+               </tr>
+               <tr>
+                  <td>herder_litteratur03_1767</td>
+                  <td>104</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
                </tr>
                <tr>
                   <td>goetze_zeitvertreib02_1783</td>
@@ -794,6 +1231,44 @@
                   <td>23</td>
                </tr>
                <tr>
+                  <td>heinse_ardinghello02_1787</td>
+                  <td>66</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>herder_artundkunst_1773</td>
+                  <td>150</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
                   <td>gottsched_versuch_1730</td>
                   <td>99</td>
                   <td/>
@@ -811,6 +1286,25 @@
                   <td/>
                   <td/>
                   <td>21</td>
+               </tr>
+               <tr>
+                  <td>herder_kritische02_1769</td>
+                  <td>99</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
                </tr>
                <tr>
                   <td>goethe_lehrjahre02_1795</td>
