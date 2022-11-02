@@ -50,7 +50,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_2_4/releases/download/v1/bagitDump-v1.zip">Current version download: bagitDump-v1.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_2_4/releases/download/v2/bagitDump-v2.zip">Current version download: bagitDump-v2.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_2_4/releases">Version archive</a>
@@ -210,14 +210,14 @@
       </thead>
       <tbody>
          <tr>
-            <td>2866</td>
+            <td>4853</td>
             <td>0</td>
             <td>0</td>
-            <td>20</td>
-            <td>6</td>
+            <td>26</td>
+            <td>14</td>
             <td>0</td>
-            <td>143</td>
-            <td>0</td>
+            <td>282</td>
+            <td>180</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -225,7 +225,7 @@
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>831</td>
+            <td>1388</td>
          </tr>
       </tbody>
    </table>
