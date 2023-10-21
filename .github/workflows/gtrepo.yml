@@ -174,8 +174,10 @@ jobs:
          filename: metadadta-v${{ github.run_number }}.zip
          path: 'metadata_out'
 
-            
-   
+    - name: copy metadata.zip to ocrdzip_out
+      run: | 
+        cp metadadta-v${{ github.run_number }}.zip ocrdzip_out/
+        
         
     - name: Upload Release
       uses: ncipollo/release-action@v1
