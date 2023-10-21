@@ -175,13 +175,12 @@ jobs:
       run: |
         pwd
         ls
-        cd ocrdzip_out
         7z a -tzip -v1000 "ARCHIVE_NAME.zip" "bagitDump-v${{ github.run_number }}.zip"
         
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-          artifacts: './bagitDump-v*.zip'
+          artifacts: './*.zip'
           artifactContentType: application/zip
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
           body: |
