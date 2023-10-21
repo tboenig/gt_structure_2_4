@@ -165,22 +165,22 @@ jobs:
         cp scripts/_config.yml ghout/ 
 
 
-    - name: archive the ocrdzip files from ocrdzip_out folder
-      uses: thedoctor0/zip-release@master
-      with:
-         filename: bagitDump-v${{ github.run_number }}.zip
-         path: 'ocrdzip_out'
+   # - name: archive the ocrdzip files from ocrdzip_out folder
+   #   uses: thedoctor0/zip-release@master
+   #   with:
+   #      filename: bagitDump-v${{ github.run_number }}.zip
+   #      path: 'ocrdzip_out'
     
-    - name: split zip
-      run: |
-        pwd
-        ls
-        7z a -tzip -v1000 "ARCHIVE_NAME.zip" "bagitDump-v${{ github.run_number }}.zip"
+   # - name: split zip
+   #   run: |
+   #     pwd
+   #     ls
+   #     7z a -tzip -v1000 "ARCHIVE_NAME.zip" "bagitDump-v${{ github.run_number }}.zip"
         
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-          artifacts: './*.zip'
+          artifacts: 'ocrdzip_out/*.zip'
           artifactContentType: application/zip
           name: Release ${{ github.run_number }}_${{ github.ref_name }}
           body: |
