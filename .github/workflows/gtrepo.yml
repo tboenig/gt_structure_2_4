@@ -33,6 +33,9 @@ jobs:
 
      # Installation GT-Labelling Documentation
 
+    - name: install 7zip
+      run: sudo apt install p7zip-full
+    
     - name: install labeling
       run: |
         git clone https://github.com/tboenig/gt-guidelines.git
@@ -169,7 +172,11 @@ jobs:
       with:
          filename: bagitDump-v${{ github.run_number }}.zip
          path: 'ocrdzip_out'
-      
+    
+    - name: split zip
+      run: |
+        cd ocrdzip_out
+        7z a -tzip -vSIZE "ARCHIVE_NAME.zip" "bagitDump-v${{ github.run_number }}.zip"
         
     - name: Upload Release
       uses: ncipollo/release-action@v1
