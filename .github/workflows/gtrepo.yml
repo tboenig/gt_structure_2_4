@@ -33,9 +33,7 @@ jobs:
 
      # Installation GT-Labelling Documentation
 
-    - name: install 7zip
-      run: sudo apt install p7zip-full
-    
+      
     - name: install labeling
       run: |
         git clone https://github.com/tboenig/gt-guidelines.git
@@ -175,6 +173,8 @@ jobs:
     
     - name: split zip
       run: |
+        pwd
+        ls
         cd ocrdzip_out
         7z a -tzip -v1000 "ARCHIVE_NAME.zip" "bagitDump-v${{ github.run_number }}.zip"
         
