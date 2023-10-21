@@ -353,440 +353,440 @@
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0006.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0007.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0010.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0010.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0011.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0012.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0012.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0013.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0013.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0014.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0014.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0015.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0015.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0009"
                     GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0016.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0016.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0010"
                     GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0615.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0615.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0011"
                     GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0637.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0637.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0012"
                     GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0642.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0642.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0013"
                     GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0651.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0651.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0014"
                     GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0658.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0658.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0015"
                     GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0661.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0661.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0016"
                     GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0662.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0662.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0017"
                     GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0663.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0663.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0018"
                     GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0664.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0664.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0019"
                     GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0665.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0665.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0020"
                     GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0667.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0667.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0021"
                     GROUPID="OCR-D-IMG_0021">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0668.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0668.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0022"
                     GROUPID="OCR-D-IMG_0022">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0669.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0669.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0023"
                     GROUPID="OCR-D-IMG_0023">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0670.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0670.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0024"
                     GROUPID="OCR-D-IMG_0024">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0671.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0671.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0025"
                     GROUPID="OCR-D-IMG_0025">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0672.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0672.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0026"
                     GROUPID="OCR-D-IMG_0026">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0673.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0673.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0027"
                     GROUPID="OCR-D-IMG_0027">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0676.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0676.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0006.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0006.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0002"
                     GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0007.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0007.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0003"
                     GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0010.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0010.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0004"
                     GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0011.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0011.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0012.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0012.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0006"
                     GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0013.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0013.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
                     GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0014.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0014.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0008"
                     GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0015.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0015.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0009"
                     GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0016.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0016.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0010"
                     GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0615.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0615.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0011"
                     GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0637.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0637.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0012"
                     GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0642.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0642.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0013"
                     GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0651.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0651.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0014"
                     GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0658.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0658.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0015"
                     GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0661.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0661.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0016"
                     GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0662.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0662.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0017"
                     GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0663.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0663.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0018"
                     GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0664.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0664.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0019"
                     GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0665.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0665.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0020"
                     GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0667.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0667.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0021"
                     GROUPID="OCR-D-IMG_0021">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0668.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0668.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0022"
                     GROUPID="OCR-D-IMG_0022">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0669.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0669.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0023"
                     GROUPID="OCR-D-IMG_0023">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0670.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0670.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0024"
                     GROUPID="OCR-D-IMG_0024">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0671.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0671.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0025"
                     GROUPID="OCR-D-IMG_0025">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0672.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0672.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0026"
                     GROUPID="OCR-D-IMG_0026">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0673.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0673.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0027"
                     GROUPID="OCR-D-IMG_0027">
-            <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0676.xml"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/hellwig_haussverwalter_1712_0676.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="DEFAULT">
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0006.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0006.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0007.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0007.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0010.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0010.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0011.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0011.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0012.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0012.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0013.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0013.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0014.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0014.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0015.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0015.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0016.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0016.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0615.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0615.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0637.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0637.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0642.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0642.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0651.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0651.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0658.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0658.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0661.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0661.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0662.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0662.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0663.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0663.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0664.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0664.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0665.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0665.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0667.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0667.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0021" GROUPID="OCR-D-IMG_0021">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0668.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0668.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0022" GROUPID="OCR-D-IMG_0022">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0669.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0669.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0023" GROUPID="OCR-D-IMG_0023">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0670.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0670.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0024" GROUPID="OCR-D-IMG_0024">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0671.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0671.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0025" GROUPID="OCR-D-IMG_0025">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0672.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0672.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0026" GROUPID="OCR-D-IMG_0026">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0673.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0673.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0027" GROUPID="OCR-D-IMG_0027">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0676.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0676.jpg"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-IMG">
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0001" GROUPID="OCR-D-IMG_0001">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0006.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0006.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0002" GROUPID="OCR-D-IMG_0002">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0007.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0007.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0010.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0010.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0011.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0011.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0012.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0012.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0013.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0013.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0014.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0014.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0008" GROUPID="OCR-D-IMG_0008">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0015.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0015.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0009" GROUPID="OCR-D-IMG_0009">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0016.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0016.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0010" GROUPID="OCR-D-IMG_0010">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0615.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0615.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0637.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0637.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0012" GROUPID="OCR-D-IMG_0012">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0642.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0642.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0651.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0651.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0014" GROUPID="OCR-D-IMG_0014">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0658.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0658.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0015" GROUPID="OCR-D-IMG_0015">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0661.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0661.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0016" GROUPID="OCR-D-IMG_0016">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0662.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0662.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0017" GROUPID="OCR-D-IMG_0017">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0663.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0663.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0018" GROUPID="OCR-D-IMG_0018">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0664.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0664.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0019" GROUPID="OCR-D-IMG_0019">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0665.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0665.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0020" GROUPID="OCR-D-IMG_0020">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0667.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0667.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0021" GROUPID="OCR-D-IMG_0021">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0668.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0668.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0022" GROUPID="OCR-D-IMG_0022">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0669.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0669.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0023" GROUPID="OCR-D-IMG_0023">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0670.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0670.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0024" GROUPID="OCR-D-IMG_0024">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0671.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0671.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0025" GROUPID="OCR-D-IMG_0025">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0672.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0672.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0026" GROUPID="OCR-D-IMG_0026">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0673.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0673.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0027" GROUPID="OCR-D-IMG_0027">
-            <mets:FLocat LOCTYPE="URL" xlink:href="jpg/hellwig_haussverwalter_1712_0676.jpg"/>
+            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/hellwig_haussverwalter_1712_0676.jpg"/>
          </mets:file>
       </mets:fileGrp>
    </mets:fileSec>
@@ -799,7 +799,7 @@
       </mets:div>
    </mets:structMap>
    <mets:structMap TYPE="PHYSICAL">
-      <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0000">
+      <mets:div TYPE="physSequence" ID="phys_0000">
          <mets:div TYPE="page" ORDER="1" ID="phys_0001" DMDID="DMDGT_0001">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0001"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0001"/>
