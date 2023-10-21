@@ -176,7 +176,7 @@ jobs:
     - name: split zip
       run: |
         cd ocrdzip_out
-        7z a -tzip -vSIZE "ARCHIVE_NAME.zip" "bagitDump-v${{ github.run_number }}.zip"
+        7z a -tzip -v1000 "ARCHIVE_NAME.zip" "bagitDump-v${{ github.run_number }}.zip"
         
     - name: Upload Release
       uses: ncipollo/release-action@v1
