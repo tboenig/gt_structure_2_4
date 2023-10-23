@@ -171,12 +171,12 @@ jobs:
     - name: archive the metadata files from metadata_out folder
       uses: thedoctor0/zip-release@master
       with:
-         filename: metadadta-v${{ github.run_number }}.zip
+         filename: metadata-v${{ github.run_number }}.zip
          path: 'metadata_out'
 
     - name: copy metadata.zip to ocrdzip_out
       run: | 
-        cp metadadta-v${{ github.run_number }}.zip ocrdzip_out/
+        cp metadata-v${{ github.run_number }}.zip ocrdzip_out/
         
         
     - name: Upload Release
@@ -191,11 +191,12 @@ jobs:
             <dd>${{ github.ref_name }}</dd>
             <dt>Info:</dt>
             <dd>
-            To use the Ground Truth download the zip files.<br/>
-            The zip files are ocr-d-bagit files.<br/>
-            The Metadata.json file contains metadata for the Ground Truth corpus.<br/>
-            The Mets.xml file lists all containing documents/bagits.<br/>
+            To make use of Ground Truth, please download the provided zip files.<br/>
+            The 'ocrd.zip' files are ocr-d-bagit files.<br/>
+            The 'metadata-v${{ github.run_number }}.zip' file contains metadata for the Ground Truth corpus in both METS and JSON format.<br/>
+            The 'mets.xml' file enumerates all the documents and BagIt files contained within.<br/>
             The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.</dd>
+            </dl>
             </dl>
           token: ${{ secrets.GITHUB_TOKEN }}
           
