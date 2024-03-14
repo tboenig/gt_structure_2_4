@@ -46,7 +46,7 @@
   "gtTyp": "data_structure",
   "format": "Page-XML",
   "transcription-guidelines": "OCR-D-GT-Guideline, Part: Structur Ground Truth\nhttps://ocr-d.de/en/gt-guidelines/trans/structur_gt.html",
-  "volume": {
+  "gtvolume": {
     "TxtRegion": "4853",
     "GraphRegion": "26",
     "TabRegion": "14",
