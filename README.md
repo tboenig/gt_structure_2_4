@@ -14,7 +14,7 @@
       <dt id="License">License:</dt>
       <dd>CC0-1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
-      <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth
+      <dd>OCR-D-GT-Guideline, Part: Structure Ground Truth
 https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       <dt id="Project">Project:</dt>
       <dd>OCR-D</dd>
@@ -38,7 +38,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             <th>MusicRegion</th>
             <th>AdRegion</th>
             <th>NoiseRegion</th>
-            <th>UnkownRegion</th>
+            <th>UnknownRegion</th>
             <th>CustomRegion</th>
             <th>TextLine</th>
             <th>Page</th>
@@ -84,7 +84,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <th>MusicRegion</th>
                   <th>AdRegion</th>
                   <th>NoiseRegion</th>
-                  <th>UnkownRegion</th>
+                  <th>UnknownRegion</th>
                   <th>CustomRegion</th>
                   <th>TextLine</th>
                   <th>Page</th>
