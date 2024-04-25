@@ -26,7 +26,7 @@
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text">Riga Leipzig</mods:placeTerm>
+                     <mods:placeTerm type="text">Riga, Leipzig</mods:placeTerm>
                   </mods:place>
                   <mods:dateIssued encoding="w3cdtf" keyDate="yes">1785</mods:dateIssued>
                   <mods:publisher>
