@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>SLUB Dresden</mods:physicalLocation>
                   <mods:shelfLocator>SLUB Dresden, Hist.Amer.5</mods:shelfLocator>
-                  <mods:url>URL: http://slubdd.de/katalog?TN_libero_mab213772352</mods:url>
+                  <mods:url>http://slubdd.de/katalog?TN_libero_mab213772352</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
