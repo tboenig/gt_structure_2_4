@@ -20,9 +20,9 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>BBAW</mods:physicalLocation>
+                  <mods:shelfLocator>BBAW, B4/DWB</mods:shelfLocator>
+                  <mods:url>https://vzlbs.gbv.de/DB=38/XMLPRS=N/PPN?PPN=032306377</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
@@ -35,12 +35,17 @@
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Wörterbuch</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
+                  <mods:title>Deutsches Wörterbuch</mods:title>
                   <mods:subTitle/>
                </mods:titleInfo>
+               <mods:part order="1">
+                  <mods:detail type="volume">
+                     <mods:number>1. Band: A - Biermolke</mods:number>
+                  </mods:detail>
+               </mods:part>
                <mods:language>
                   <mods:languageTerm authority="iso639-2b" type="code">deu</mods:languageTerm>
                </mods:language>
@@ -53,9 +58,17 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Grimm</mods:namePart>
+                  <mods:namePart type="given">Jacob</mods:namePart>
+                  <mods:displayForm>Jacob Grimm</mods:displayForm>
+               </mods:name>
+               <mods:name type="personal">
+                  <mods:role>
+                     <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                  </mods:role>
+                  <mods:namePart type="family">Grimm</mods:namePart>
+                  <mods:namePart type="given">Wilhelm</mods:namePart>
+                  <mods:displayForm>Wilhelm Grimm</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
                   <mods:extent/>
@@ -68,7 +81,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Deutsches Wörterbuch</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
